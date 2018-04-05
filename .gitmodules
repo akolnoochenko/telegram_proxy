@@ -1,0 +1,3 @@
+[submodule "telegram-socks5-proxy"]
+	path = telegram-socks5-proxy
+	url = https://github.com/Srar/telegram-socks5-proxy.git
