@@ -4,8 +4,10 @@ To run, just use command:
 
 To build:
 
-```git clone https://github.com/akolnoochenko/telegram_proxy.git/
+```
+git clone https://github.com/akolnoochenko/telegram_proxy.git/
 cd telegram_proxy/
 git submodule init
 git pull --recurse-submodules && git submodule update --recursive
-docker build -t koppektop/telegram-proxy .```
+docker build -t koppektop/telegram-proxy .
+```
